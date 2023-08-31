@@ -1,0 +1,12 @@
+{{ define "header" -}}
+
+<h1>{{ .Title }}</h1>
+<small>Updated {{ .Lastmod.Format "Jan 2, 2006" }}</small>
+
+{{- end }}
+
+{{ define "main" -}}
+
+{{ .Content -}}
+
+{{ end }}

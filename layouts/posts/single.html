@@ -1,0 +1,14 @@
+{{ define "header" -}}
+
+<h1>{{ .Title }}</h1>
+<small>{{ .PublishDate.Format "Jan 2, 2006" }}</small>
+
+{{- end }}
+
+{{ define "main" }}
+
+{{ .TableOfContents }}
+
+{{ .Content }}
+
+{{ end }}

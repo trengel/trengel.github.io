@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="{{ .Site.LanguageCode }}">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<meta name="description" content="{{ .Site.Params.description }}">
+<meta name="theme-color" content="#dce3e9">
+<!-- https://redketchup.io/favicon-generator -->
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+{{ $stylecss := resources.Get "style.css" | fingerprint "md5" -}}
+<link rel="stylesheet" href="{{ $stylecss.RelPermalink }}">
+{{ if .IsHome -}}
+<title>{{ .Site.Title }}</title>
+{{ else -}}
+<title>{{ .Title }} | Tristan Engel</title>
+{{ end -}}
+<body class="wrapper">
+  <header class="full-bleed">
+    <div class="breakout">
+      {{ block "header" . }}{{ end }}
+    </div>
+  </header>
+
+{{ block "main" . }}{{ end -}}
+
+{{ if eq .Kind "home" -}}
+<footer>
+  <small class="license">&copy; Tristan Engel, <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">some rights reserved</a></small>
+</footer>
+{{ else if eq .Kind "page" }}
+<footer>
+  <small class="license">&copy; Tristan Engel, <a rel="license" href="https://creativecommons.org/licenses/by/4.0/">some rights reserved</a></small>
+  <small class="toindex"><a href="/">← Go home</a></small>
+</footer>
+{{ end -}}
+</body>
+</html>

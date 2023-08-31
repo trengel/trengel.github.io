@@ -1,0 +1,30 @@
+baseURL: https://tristan.omg.lol/
+languageCode: en-US
+title: Tristan's personal site
+disableKinds:
+  - section
+  - taxonomy
+  - term
+  - RSS
+  - sitemap
+
+permalinks:
+  posts: /:filename/
+
+params:
+  description: Wannabe "IT guy"
+
+publishDir: docs
+
+markup:
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      linkifyProtocol: https
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer:
+        disable: true

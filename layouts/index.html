@@ -1,0 +1,22 @@
+{{ define "header" -}}
+
+<h1>{{ .Title }}</h1>
+<small>{{ .Site.Params.description }}</small>
+
+{{- end }}
+
+{{ define "main" -}}
+
+{{ .Content -}}
+<!--
+{{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections -}}
+{{ range $pages.ByPublishDate.Reverse }}
+<p>
+<small>{{ .PublishDate.Format "Jan 2, 2006" }}</small><br>
+<a href="{{ .Permalink | relURL }}">{{ .Title }}</a>
+</p>
+{{ end }}
+-->
+<p>Whoops, looks like I haven't written anything yet! I'm working on it.</p>
+
+{{ end }}
