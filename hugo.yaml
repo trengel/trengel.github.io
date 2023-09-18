@@ -14,8 +14,6 @@ permalinks:
 params:
   description: Aspiring IT professional
 
-publishDir: docs
-
 markup:
   goldmark:
     extensions:
