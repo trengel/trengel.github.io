@@ -1,6 +1,6 @@
 ---
 title: "What I'm doing now"
-lastmod: 2023-08-23
+lastmod: 2023-09-17
 ---
 
 I'm slowly getting back into table tennis, something I haven't done since high school! There's a tennis club in my area and it's been great so far.
@@ -11,8 +11,8 @@ _[The Structure of Scientific Revolutions](https://isbnsearch.org/isbn/022645812
 
 ## Playing
 
-_[Blasphemous 2](https://www.dekudeals.com/collection/th9ntfh4tb)_
+_[Ruiner](https://www.dekudeals.com/collection/th9ntfh4tb)_
 
 ## Listening to
 
-Mainly ambient and drone music, which means relistening to the hours and hours of recordings by [Chihei Hatakeyama](https://chiheihatakeyama.bandcamp.com/) and [hakobune](https://hakobune.bandcamp.com/). I'll mix it up by listening to stuff like [Dead Ghosts](https://deadghosts.bandcamp.com/) and [Cool Ghouls](https://coolghouls420.bandcamp.com/music) sometimes. **Playing on repeat:** ["Goon"](https://www.youtube.com/watch?v=8xj8_Sva1XM) by Osees.
+I've "rediscovered" [Booji Boys](https://boojiboysfuneral.bandcamp.com/) after I straight-up forgot the name of the band. They kinda remind me of Royal Headache, but scuzzier. Good stuff. **Playing on repeat:** ["Goon"](https://www.youtube.com/watch?v=SIxo8Sn-u2w) by Osees.
