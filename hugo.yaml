@@ -12,7 +12,7 @@ permalinks:
   posts: /:filename/
 
 params:
-  description: Wannabe "IT guy"
+  description: Aspiring IT professional
 
 publishDir: docs
 
