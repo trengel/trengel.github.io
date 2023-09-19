@@ -89,8 +89,8 @@ em {
 
 header {
   background: var(--header-bg-color);
-  border-bottom: 1px solid var(--accent-color);
-  margin-bottom: -1px;
+  border-bottom: 3px dashed var(--page-bg-color);
+  margin-bottom: -3px;
   padding: 10vmin 0;
 }
 
