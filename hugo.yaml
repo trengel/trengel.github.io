@@ -12,7 +12,7 @@ permalinks:
   posts: /:filename/
 
 params:
-  description: Aspiring IT professional
+  description: IT professional
 
 markup:
   goldmark:
