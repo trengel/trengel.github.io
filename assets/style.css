@@ -207,7 +207,6 @@ footer small {
   content: '→ ';
 }
 
-/* TODO: Find out if this can be optimized */
 #TableOfContents ul ul li::marker {
   content: '⤷ ';
 }
