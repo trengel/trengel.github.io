@@ -1,9 +1,9 @@
 ---
 title: "What I'm doing now"
-lastmod: 2023-09-17
+lastmod: 2023-10-05
 ---
 
-I'm slowly getting back into table tennis, something I haven't done since high school! There's a tennis club in my area and it's been great so far.
+I'm slowly getting back into table tennis, something I haven't done since high school! There's a table tennis club in my area and it's been great so far.
 
 ## Reading
 
@@ -11,8 +11,8 @@ _[The Structure of Scientific Revolutions](https://isbnsearch.org/isbn/022645812
 
 ## Playing
 
-_[Ruiner](https://www.dekudeals.com/collection/th9ntfh4tb)_
+Nothing, just waiting for the [Metal Gear Solid Master Collection](https://www.dekudeals.com/items/metal-gear-solid-master-collection-vol-1) at this point.
 
 ## Listening to
 
-I've "rediscovered" [Booji Boys](https://boojiboysfuneral.bandcamp.com/) after I straight-up forgot the name of the band. They kinda remind me of Royal Headache, but scuzzier. Good stuff. **Playing on repeat:** ["Goon"](https://www.youtube.com/watch?v=SIxo8Sn-u2w) by Osees.
+The works of [Misha Panfilov](https://mpsc.bandcamp.com/). I'm normally not one to seek out jazz, but his music is so easy to groove to.
